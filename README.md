@@ -8,7 +8,7 @@
 ผู้คนไม่ค่อยทำการแยกขยะก่อนทิ้ง ทำให้ขยะที่สามารถทำการรีไซเคิลได้ ไม่ได้ถูกนำเข้าสู่กระบวนการรีไซเคิล
 
 ## Video Explain
-[[click here to whrch demo]](https://www.youtube.com/watch?v=XCuehKieU04) 
+[[click here to watch demo]](https://www.youtube.com/watch?v=XCuehKieU04) 
 
 ## Use Case Diagram
 <img src="https://user-images.githubusercontent.com/58208814/159707694-a9f4128e-3725-435d-b5b8-395a8c340a44.jpeg" width="650">
