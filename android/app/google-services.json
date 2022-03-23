@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947897270708",
+    "project_id": "moblie-final",
+    "storage_bucket": "moblie-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947897270708:android:a2308c63536d90bc1972e1",
+        "android_client_info": {
+          "package_name": "com.example.flutte_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947897270708-7p7vj5tn6et2c8vipv7q96qh53ufmm68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnsncjHxvlpqSuDEkP3mZn99oN8SZRc84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947897270708-7p7vj5tn6et2c8vipv7q96qh53ufmm68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
