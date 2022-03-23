@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       //home: IndexScreen(),
-      initialRoute: ManagerTabbar.routeName,
+      initialRoute: IndexScreen.routeName,
       routes: routes,
       
     );
